@@ -1,6 +1,6 @@
-# Cardinity Client Bundle
+# Cardinity Client PHP library
 
-This is an official Cardinity Client bundle library.<br>
+This is an official PHP client library for <a href="https://developers.cardinity.com/api/v1/">Cardinity's</a> API.<br>
 Library includes all the functionality provided by the API. Library was designed to be flexible and self-explanatory for developers to implement.
 
 ### Table of Contents  
