@@ -12,8 +12,7 @@ Library includes all the functionality provided by the API. Library was designed
 [<b>Usage →</b>](#usage)   
       [Services](#services)   
       [Available Methods](#available-methods)  
-      [Available Queries](#available-queries)  
-      [Voids](#voids)             
+      [Available Queries](#available-queries)            
  [<b>Downloads →</b>](#downloads)<br>
  [<b>Having problems? →</b>](#having-problems)<br>
  [<b>About us →</b>](#-aboutus)<br>     
