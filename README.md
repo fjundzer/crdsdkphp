@@ -15,7 +15,7 @@ Library includes all the functionality provided by the API. Library was designed
       [Available Queries](#available-queries)  
       [Voids](#voids)             
  [<b>Changelog →</b>](#changelog)<br>
- [<b>FAQ →</b>](#faq)<br>
+ [<b>Having problems? →</b>](#having-problems)<br>
  [<b>About us →</b>](#-aboutus)<br>     
 <a name="headers"/>  
 ### Official API documentation can be found [here](https://developers.cardinity.com/api/v1/).
@@ -182,6 +182,11 @@ try {
 | 1.0.1         | Bug "Client::__construct() has too many arguments issue" fixed.  | <a href="https://github.com/cardinity/cardinity-sdk-php/releases/tag/v1.0.2">Download</a> |
 | 1.0.1 | Bigfixes. Fixed issue found on PHP 5.4 | <a href="https://github.com/cardinity/cardinity-sdk-php/releases/tag/v1.0.1">Download</a>
 </details>
+
+### Having problems?  
+
+Feel free to contact us regarding any problems that occurred during integration via info@cardinity.com. We will be more than happy to help.
+
 
 -----
 
