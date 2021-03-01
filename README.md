@@ -14,7 +14,7 @@ Library includes all the functionality provided by the API. Library was designed
       [Available Methods](#available-methods)  
       [Available Queries](#available-queries)  
       [Voids](#voids)             
- [<b>Changelog →</b>](#changelog)<br>
+ [<b>Downloads →</b>](#downloads)<br>
  [<b>Having problems? →</b>](#having-problems)<br>
  [<b>About us →</b>](#-aboutus)<br>     
 <a name="headers"/>  
